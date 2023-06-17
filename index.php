@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="Cimory">
     <meta name="author" content="Andrean Utama Putra" />
-
+// komentar
     <!-- favicon -->
     <link rel="shortcut icon" href="assets/img/log1.png" />
 
